@@ -1,0 +1,3 @@
+# Project Design Idea  
+
+Traffuc design simulator that will allow users to dynamically simulate various traffic scenarios. Users will be able to build custom traffic simulations and run them with simulated drivers. Users will obtain a score based on the efficiency of the design. The design efficiency will be scored based on throughput of drivers and collisions. Users will be able to simulate different intersections and set different driver personalities of drivers to give a more realistic simultation
